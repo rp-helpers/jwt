@@ -1,0 +1,1 @@
+https://dzone.com/articles/how-does-http-basic-authentication-work-in-spring
